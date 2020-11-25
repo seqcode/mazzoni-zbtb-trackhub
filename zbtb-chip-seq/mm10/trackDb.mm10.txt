@@ -5,8 +5,6 @@ type bigWig
 compositeTrack on
 autoScale on
 html description.html
-visibility full
-
 
 
 track 28758
