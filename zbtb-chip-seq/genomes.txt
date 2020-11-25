@@ -1,2 +1,2 @@
 genome mm10
-trackDb mm10/trackDb.mm10.txt
+trackDb mm10/trackDb-lugh.mm10.txt

@@ -1,0 +1,450 @@
+track mES-ZBTB
+superTrack on show
+shortLabel mES ZBTB
+longLabel ChIP-seq characterizing regulatory activities of Zbtb11 and Zfp131 in mES cells
+html description.html
+visibility full
+
+track 28758
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_WT_1
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep1
+type bigWig
+priority 1
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28758.bw
+visibility full
+color 128,128,128
+
+track 28759
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_WT_2
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep2
+type bigWig
+priority 2
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28759.bw
+visibility full
+color 128,128,128
+
+track 28760
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_WT_2
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15 rep2
+type bigWig
+priority 3
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28760.bw
+visibility hide
+color 128,128,128
+
+track 28761
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_WT_1
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15 rep1
+type bigWig
+priority 4
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28761.bw
+visibility hide
+color 128,128,128
+
+track 28766
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zfp131) rep2
+type bigWig
+priority 5
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28766.bw
+visibility hide
+color 157,125,178
+
+track 28767
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zfp131) rep1
+type bigWig
+priority 6
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28767.bw
+visibility hide
+color 157,125,178
+
+track 28768
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zbtb11) rep2
+type bigWig
+priority 7
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28768.bw
+visibility hide
+color 127,188,231
+
+track 28770
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zfp131) rep2
+type bigWig
+priority 8
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28770.bw
+visibility hide
+color 157,125,178
+
+track 28771
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zfp131) rep1
+type bigWig
+priority 9
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28771.bw
+visibility hide
+color 157,125,178
+
+track 28772
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zbtb11) rep2
+type bigWig
+priority 10
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28772.bw
+visibility hide
+color 127,188,231
+
+track 28773
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zbtb11) rep1
+type bigWig
+priority 11
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28773.bw
+visibility hide
+color 127,188,231
+
+track 28774
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep1
+type bigWig
+priority 12
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28774.bw
+visibility hide
+color 128,128,128
+
+track 28775
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep2
+type bigWig
+priority 13
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28775.bw
+visibility hide
+color 128,128,128
+
+track 28776
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep3
+type bigWig
+priority 14
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28776.bw
+visibility hide
+color 127,188,231
+
+track 28777
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep4
+type bigWig
+priority 15
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28777.bw
+visibility hide
+color 127,188,231
+
+track 28780
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep2
+type bigWig
+priority 16
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28780.bw
+visibility hide
+color 128,128,128
+
+track 28781
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep1
+type bigWig
+priority 17
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28781.bw
+visibility hide
+color 128,128,128
+
+track 28782
+parent mES-ZBTB
+shortLabel Zbtb11_2iPLUS_2
+longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep2
+type bigWig
+priority 18
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28782.bw
+visibility full
+color 127,188,231
+
+
+track 28783
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep4
+type bigWig
+priority 19
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28783.bw
+visibility hide
+color 127,188,231
+
+track 28784
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep3
+type bigWig
+priority 20
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28784.bw
+visibility hide
+color 127,188,231
+
+track 28785
+parent mES-ZBTB
+shortLabel Zbtb11_2iPLUS_1
+longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep1
+type bigWig
+priority 21
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28785.bw
+visibility full
+color 127,188,231
+
+
+track 28786
+parent mES-ZBTB
+shortLabel Zfp131_2iPLUS_1
+longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep1
+type bigWig
+priority 22
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28786.bw
+visibility full
+color 157,125,178
+
+
+track 28787
+parent mES-ZBTB
+shortLabel Zfp131_2iPLUS_2
+longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep2
+type bigWig
+priority 23
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28787.bw
+visibility full
+color 157,125,178
+
+
+track 28788
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15 rep2
+type bigWig
+priority 24
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28788.bw
+visibility hide
+color 128,128,128
+
+track 28789
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15 rep1
+type bigWig
+priority 25
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28789.bw
+visibility hide
+color 128,128,128
+
+track 28791
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zfp131KO) rep2
+type bigWig
+priority 26
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28791.bw
+visibility hide
+color 157,125,178
+
+track 28792
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zbtb11KO) rep2
+type bigWig
+priority 27
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28792.bw
+visibility hide
+color 127,188,231
+
+track 28794
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zfp131KO) rep1
+type bigWig
+priority 28
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28794.bw
+visibility hide
+color 157,125,178
+
+track 28795
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15(Zfp131KO) rep2
+type bigWig
+priority 29
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28795.bw
+visibility hide
+color 157,125,178
+
+track 28796
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15(Zfp131KO) rep2
+type bigWig
+priority 30
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28796.bw
+visibility hide
+color 157,125,178
+
+track 28797
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15(Zfp131KO) rep1
+type bigWig
+priority 31
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28797.bw
+visibility hide
+color 157,125,178
+
+track 28798
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zbtb11KO) rep1
+type bigWig
+priority 32
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28798.bw
+visibility hide
+color 127,188,231
+
+track 28799
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15(Zfp131KO) rep1
+type bigWig
+priority 33
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/28799.bw
+visibility hide
+color 157,125,178
+
+track 29239
+parent mES-ZBTB
+shortLabel SETD1A_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) SETD1A Ainv15 rep2
+type bigWig
+priority 34
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29239.bw
+visibility hide
+color 128,128,128
+
+track 29242
+parent mES-ZBTB
+shortLabel SETD1A_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) SETD1A Ainv15 rep1
+type bigWig
+priority 35
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29242.bw
+visibility hide
+color 128,128,128
+
+track 29244
+parent mES-ZBTB
+shortLabel POL2S5P_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) Pol2-S5P Ainv15 rep1
+type bigWig
+priority 36
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29244.bw
+visibility hide
+color 128,128,128
+
+track 29250
+parent mES-ZBTB
+shortLabel POL2S5P_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) Pol2-S5P Ainv15 rep2
+type bigWig
+priority 37
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29250.bw
+visibility hide
+color 128,128,128
+
+track 29251
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15 rep2
+type bigWig
+priority 38
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29251.bw
+visibility hide
+color 128,128,128
+
+track 29252
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zbtb11KO) rep1
+type bigWig
+priority 39
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29252.bw
+visibility hide
+color 127,188,231
+
+track 29254
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15 rep1
+type bigWig
+priority 40
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29254.bw
+visibility hide
+color 128,128,128
+
+track 29255
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zfp131KO) rep2
+type bigWig
+priority 41
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29255.bw
+visibility hide
+color 157,125,178
+
+track 29256
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) H3K4me3 Ainv15(Zbtb11KO) rep3
+type bigWig
+priority 42
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29256.bw
+visibility hide
+color 127,188,231
+
+track 29257
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zbtb11KO) rep2
+type bigWig
+priority 43
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29257.bw
+visibility hide
+color 127,188,231
+
+track 29258
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zfp131KO) rep1
+type bigWig
+priority 44
+bigDataUrl http://lugh.bmb.psu.edu/data/mazzoni/zbtb/29258.bw
+visibility hide
+color 157,125,178
