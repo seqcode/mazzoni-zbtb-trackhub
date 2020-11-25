@@ -1,0 +1,406 @@
+track mES-ZBTB
+shortLabel mES ZBTB
+longLabel ChIP-seq characterizing regulatory activities of Zbtb11 and Zfp131 in mES cells
+type bigWig
+compositeTrack on
+autoScale on
+html description.html
+visibility full
+
+
+
+track 28758
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_WT_1
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep1
+type bigwig
+priority 1
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28758.bw
+
+
+track 28759
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_WT_2
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep2
+type bigwig
+priority 2
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28759.bw
+
+
+track 28760
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_WT_2
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15 rep2
+type bigwig
+priority 3
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28760.bw
+
+
+track 28761
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_WT_1
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15 rep1
+type bigwig
+priority 4
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28761.bw
+
+
+track 28766
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zfp131) rep2
+type bigwig
+priority 5
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28766.bw
+
+
+track 28767
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zfp131) rep1
+type bigwig
+priority 6
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28767.bw
+
+
+track 28768
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zbtb11) rep2
+type bigwig
+priority 7
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28768.bw
+
+
+track 28770
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zfp131) rep2
+type bigwig
+priority 8
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28770.bw
+
+
+track 28771
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zfp131) rep1
+type bigwig
+priority 9
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28771.bw
+
+
+track 28772
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zbtb11) rep2
+type bigwig
+priority 10
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28772.bw
+
+
+track 28773
+parent mES-ZBTB
+shortLabel H3K27me3_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zbtb11) rep1
+type bigwig
+priority 11
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28773.bw
+
+
+track 28774
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep1
+type bigwig
+priority 12
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28774.bw
+
+
+track 28775
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep2
+type bigwig
+priority 13
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28775.bw
+
+
+track 28776
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep3
+type bigwig
+priority 14
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28776.bw
+
+
+track 28777
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep4
+type bigwig
+priority 15
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28777.bw
+
+
+track 28780
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep2
+type bigwig
+priority 16
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28780.bw
+
+
+track 28781
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep1
+type bigwig
+priority 17
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28781.bw
+
+
+track 28782
+parent mES-ZBTB
+shortLabel Zbtb11_2iPLUS_2
+longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep2
+type bigwig
+priority 18
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28782.bw
+
+
+track 28783
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep4
+type bigwig
+priority 19
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28783.bw
+
+
+track 28784
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep3
+type bigwig
+priority 20
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28784.bw
+
+
+track 28785
+parent mES-ZBTB
+shortLabel Zbtb11_2iPLUS_1
+longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep1
+type bigwig
+priority 21
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28785.bw
+
+
+track 28786
+parent mES-ZBTB
+shortLabel Zfp131_2iPLUS_1
+longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep1
+type bigwig
+priority 22
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28786.bw
+
+
+track 28787
+parent mES-ZBTB
+shortLabel Zfp131_2iPLUS_2
+longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep2
+type bigwig
+priority 23
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28787.bw
+
+
+track 28788
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15 rep2
+type bigwig
+priority 24
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28788.bw
+
+
+track 28789
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15 rep1
+type bigwig
+priority 25
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28789.bw
+
+
+track 28791
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zfp131KO) rep2
+type bigwig
+priority 26
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28791.bw
+
+
+track 28792
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zbtb11KO) rep2
+type bigwig
+priority 27
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28792.bw
+
+
+track 28794
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zfp131KO) rep1
+type bigwig
+priority 28
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28794.bw
+
+
+track 28795
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15(Zfp131KO) rep2
+type bigwig
+priority 29
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28795.bw
+
+
+track 28796
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15(Zfp131KO) rep2
+type bigwig
+priority 30
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28796.bw
+
+
+track 28797
+parent mES-ZBTB
+shortLabel H3K27ac_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15(Zfp131KO) rep1
+type bigwig
+priority 31
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28797.bw
+
+
+track 28798
+parent mES-ZBTB
+shortLabel SIN3A_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zbtb11KO) rep1
+type bigwig
+priority 32
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28798.bw
+
+
+track 28799
+parent mES-ZBTB
+shortLabel CHD4_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15(Zfp131KO) rep1
+type bigwig
+priority 33
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/28799.bw
+
+
+track 29239
+parent mES-ZBTB
+shortLabel SETD1A_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) SETD1A Ainv15 rep2
+type bigwig
+priority 34
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29239.bw
+
+
+track 29242
+parent mES-ZBTB
+shortLabel SETD1A_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) SETD1A Ainv15 rep1
+type bigwig
+priority 35
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29242.bw
+
+
+track 29244
+parent mES-ZBTB
+shortLabel POL2S5P_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) Pol2-S5P Ainv15 rep1
+type bigwig
+priority 36
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29244.bw
+
+
+track 29250
+parent mES-ZBTB
+shortLabel POL2S5P_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) Pol2-S5P Ainv15 rep2
+type bigwig
+priority 37
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29250.bw
+
+
+track 29251
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_WT_2
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15 rep2
+type bigwig
+priority 38
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29251.bw
+
+
+track 29252
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_Zbtb11KO_1
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zbtb11KO) rep1
+type bigwig
+priority 39
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29252.bw
+
+
+track 29254
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_WT_1
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15 rep1
+type bigwig
+priority 40
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29254.bw
+
+
+track 29255
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_Zfp131KO_2
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zfp131KO) rep2
+type bigwig
+priority 41
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29255.bw
+
+
+track 29256
+parent mES-ZBTB
+shortLabel H3K4me3_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) H3K4me3 Ainv15(Zbtb11KO) rep3
+type bigwig
+priority 42
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29256.bw
+
+
+track 29257
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_Zbtb11KO_2
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zbtb11KO) rep2
+type bigwig
+priority 43
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29257.bw
+
+
+track 29258
+parent mES-ZBTB
+shortLabel NELF_2iMINUS_Zfp131KO_1
+longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zfp131KO) rep1
+type bigwig
+priority 44
+bigDataUrl https://seqview.psu.edu/api/v1/tracks/29258.bw
+

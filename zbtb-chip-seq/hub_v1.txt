@@ -1,0 +1,5 @@
+hub garipler_zbtb_2020
+shortLabel Garipler et al. 2020
+longLabel ChIP-seq coverage tracks in support of Garipler, et al. 2020
+genomesFile genomes.txt
+email mahony at psu.edu
