@@ -1,9 +1,7 @@
 track mES-ZBTB
+superTrack on show
 shortLabel mES ZBTB
 longLabel ChIP-seq characterizing regulatory activities of Zbtb11 and Zfp131 in mES cells
-type bigWig
-superTrack on show
-autoScale on
 html description.html
 visibility full
 
