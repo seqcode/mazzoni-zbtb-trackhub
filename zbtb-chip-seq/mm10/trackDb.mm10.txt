@@ -5,6 +5,7 @@ type bigWig
 compositeTrack on
 autoScale on
 html description.html
+visibility hide
 
 
 track 28758
@@ -14,6 +15,7 @@ longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep1
 type bigWig
 priority 1
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28758.bw
+visibility full
 
 
 track 28759
@@ -23,6 +25,7 @@ longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep2
 type bigWig
 priority 2
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28759.bw
+visibility full
 
 
 track 28760
@@ -167,6 +170,7 @@ longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep2
 type bigWig
 priority 18
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28782.bw
+visibility full
 
 
 track 28783
@@ -194,6 +198,7 @@ longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep1
 type bigWig
 priority 21
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28785.bw
+visibility full
 
 
 track 28786
@@ -203,6 +208,7 @@ longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep1
 type bigWig
 priority 22
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28786.bw
+visibility full
 
 
 track 28787
@@ -212,6 +218,7 @@ longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep2
 type bigWig
 priority 23
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28787.bw
+visibility full
 
 
 track 28788
