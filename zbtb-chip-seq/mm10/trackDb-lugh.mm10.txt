@@ -1,12 +1,13 @@
 track mES-ZBTB
-superTrack on show
+compositeTrack on
 shortLabel mES ZBTB
 longLabel ChIP-seq characterizing regulatory activities of Zbtb11 and Zfp131 in mES cells
 html description.html
+type bigWig
 visibility full
 
 track 28758
-parent mES-ZBTB
+parent mES-ZBTB on
 shortLabel H3K4me3_2iMINUS_WT_1
 longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep1
 type bigWig
@@ -16,7 +17,7 @@ visibility full
 color 128,128,128
 
 track 28759
-parent mES-ZBTB
+parent mES-ZBTB on
 shortLabel H3K4me3_2iMINUS_WT_2
 longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep2
 type bigWig
@@ -26,7 +27,7 @@ visibility full
 color 128,128,128
 
 track 28760
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27me3_2iMINUS_WT_2
 longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15 rep2
 type bigWig
@@ -36,7 +37,7 @@ visibility hide
 color 128,128,128
 
 track 28761
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27me3_2iMINUS_WT_1
 longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15 rep1
 type bigWig
@@ -46,7 +47,7 @@ visibility hide
 color 128,128,128
 
 track 28766
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K4me3_2iMINUS_Zfp131KO_2
 longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zfp131) rep2
 type bigWig
@@ -56,7 +57,7 @@ visibility hide
 color 157,125,178
 
 track 28767
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K4me3_2iMINUS_Zfp131KO_1
 longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zfp131) rep1
 type bigWig
@@ -66,7 +67,7 @@ visibility hide
 color 157,125,178
 
 track 28768
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K4me3_2iMINUS_Zbtb11KO_1
 longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15(del.Zbtb11) rep2
 type bigWig
@@ -76,7 +77,7 @@ visibility hide
 color 127,188,231
 
 track 28770
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27me3_2iMINUS_Zfp131KO_2
 longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zfp131) rep2
 type bigWig
@@ -86,7 +87,7 @@ visibility hide
 color 157,125,178
 
 track 28771
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27me3_2iMINUS_Zfp131KO_1
 longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zfp131) rep1
 type bigWig
@@ -96,7 +97,7 @@ visibility hide
 color 157,125,178
 
 track 28772
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27me3_2iMINUS_Zbtb11KO_2
 longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zbtb11) rep2
 type bigWig
@@ -106,7 +107,7 @@ visibility hide
 color 127,188,231
 
 track 28773
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27me3_2iMINUS_Zbtb11KO_1
 longLabel Mazzoni ES(2iMINUS) H3K27me3 Ainv15(del.Zbtb11) rep1
 type bigWig
@@ -116,7 +117,7 @@ visibility hide
 color 127,188,231
 
 track 28774
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel CHD4_2iMINUS_WT_1
 longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep1
 type bigWig
@@ -126,7 +127,7 @@ visibility hide
 color 128,128,128
 
 track 28775
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel CHD4_2iMINUS_WT_2
 longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep2
 type bigWig
@@ -136,7 +137,7 @@ visibility hide
 color 128,128,128
 
 track 28776
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel CHD4_2iMINUS_Zbtb11KO_1
 longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep3
 type bigWig
@@ -146,7 +147,7 @@ visibility hide
 color 127,188,231
 
 track 28777
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel CHD4_2iMINUS_Zbtb11KO_2
 longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15 rep4
 type bigWig
@@ -156,7 +157,7 @@ visibility hide
 color 127,188,231
 
 track 28780
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27ac_2iMINUS_WT_2
 longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep2
 type bigWig
@@ -166,7 +167,7 @@ visibility hide
 color 128,128,128
 
 track 28781
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27ac_2iMINUS_WT_1
 longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep1
 type bigWig
@@ -176,7 +177,7 @@ visibility hide
 color 128,128,128
 
 track 28782
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel Zbtb11_2iPLUS_2
 longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep2
 type bigWig
@@ -187,7 +188,7 @@ color 127,188,231
 
 
 track 28783
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27ac_2iMINUS_Zbtb11KO_2
 longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep4
 type bigWig
@@ -197,7 +198,7 @@ visibility hide
 color 127,188,231
 
 track 28784
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27ac_2iMINUS_Zbtb11KO_1
 longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15 rep3
 type bigWig
@@ -207,7 +208,7 @@ visibility hide
 color 127,188,231
 
 track 28785
-parent mES-ZBTB
+parent mES-ZBTB on
 shortLabel Zbtb11_2iPLUS_1
 longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep1
 type bigWig
@@ -218,7 +219,7 @@ color 127,188,231
 
 
 track 28786
-parent mES-ZBTB
+parent mES-ZBTB on
 shortLabel Zfp131_2iPLUS_1
 longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep1
 type bigWig
@@ -229,7 +230,7 @@ color 157,125,178
 
 
 track 28787
-parent mES-ZBTB
+parent mES-ZBTB on
 shortLabel Zfp131_2iPLUS_2
 longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep2
 type bigWig
@@ -240,7 +241,7 @@ color 157,125,178
 
 
 track 28788
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel SIN3A_2iMINUS_WT_2
 longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15 rep2
 type bigWig
@@ -250,7 +251,7 @@ visibility hide
 color 128,128,128
 
 track 28789
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel SIN3A_2iMINUS_WT_1
 longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15 rep1
 type bigWig
@@ -260,7 +261,7 @@ visibility hide
 color 128,128,128
 
 track 28791
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel SIN3A_2iMINUS_Zfp131KO_2
 longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zfp131KO) rep2
 type bigWig
@@ -270,7 +271,7 @@ visibility hide
 color 157,125,178
 
 track 28792
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel SIN3A_2iMINUS_Zbtb11KO_2
 longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zbtb11KO) rep2
 type bigWig
@@ -280,7 +281,7 @@ visibility hide
 color 127,188,231
 
 track 28794
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel SIN3A_2iMINUS_Zfp131KO_1
 longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zfp131KO) rep1
 type bigWig
@@ -290,7 +291,7 @@ visibility hide
 color 157,125,178
 
 track 28795
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27ac_2iMINUS_Zfp131KO_2
 longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15(Zfp131KO) rep2
 type bigWig
@@ -300,7 +301,7 @@ visibility hide
 color 157,125,178
 
 track 28796
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel CHD4_2iMINUS_Zfp131KO_2
 longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15(Zfp131KO) rep2
 type bigWig
@@ -310,7 +311,7 @@ visibility hide
 color 157,125,178
 
 track 28797
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K27ac_2iMINUS_Zfp131KO_1
 longLabel Mazzoni ES(2i-LIF+) H3K27ac Ainv15(Zfp131KO) rep1
 type bigWig
@@ -320,7 +321,7 @@ visibility hide
 color 157,125,178
 
 track 28798
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel SIN3A_2iMINUS_Zbtb11KO_1
 longLabel Mazzoni ES(2i-LIF+) Sin3A Ainv15(Zbtb11KO) rep1
 type bigWig
@@ -330,7 +331,7 @@ visibility hide
 color 127,188,231
 
 track 28799
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel CHD4_2iMINUS_Zfp131KO_1
 longLabel Mazzoni ES(2i-LIF+) Chd4 Ainv15(Zfp131KO) rep1
 type bigWig
@@ -340,7 +341,7 @@ visibility hide
 color 157,125,178
 
 track 29239
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel SETD1A_2iMINUS_WT_2
 longLabel Mazzoni ES(2i-LIF+) SETD1A Ainv15 rep2
 type bigWig
@@ -350,7 +351,7 @@ visibility hide
 color 128,128,128
 
 track 29242
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel SETD1A_2iMINUS_WT_1
 longLabel Mazzoni ES(2i-LIF+) SETD1A Ainv15 rep1
 type bigWig
@@ -360,7 +361,7 @@ visibility hide
 color 128,128,128
 
 track 29244
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel POL2S5P_2iMINUS_WT_1
 longLabel Mazzoni ES(2i-LIF+) Pol2-S5P Ainv15 rep1
 type bigWig
@@ -370,7 +371,7 @@ visibility hide
 color 128,128,128
 
 track 29250
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel POL2S5P_2iMINUS_WT_2
 longLabel Mazzoni ES(2i-LIF+) Pol2-S5P Ainv15 rep2
 type bigWig
@@ -380,7 +381,7 @@ visibility hide
 color 128,128,128
 
 track 29251
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel NELF_2iMINUS_WT_2
 longLabel Mazzoni ES(2i-LIF+) NELF Ainv15 rep2
 type bigWig
@@ -390,7 +391,7 @@ visibility hide
 color 128,128,128
 
 track 29252
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel NELF_2iMINUS_Zbtb11KO_1
 longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zbtb11KO) rep1
 type bigWig
@@ -400,7 +401,7 @@ visibility hide
 color 127,188,231
 
 track 29254
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel NELF_2iMINUS_WT_1
 longLabel Mazzoni ES(2i-LIF+) NELF Ainv15 rep1
 type bigWig
@@ -410,7 +411,7 @@ visibility hide
 color 128,128,128
 
 track 29255
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel NELF_2iMINUS_Zfp131KO_2
 longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zfp131KO) rep2
 type bigWig
@@ -420,7 +421,7 @@ visibility hide
 color 157,125,178
 
 track 29256
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel H3K4me3_2iMINUS_Zbtb11KO_2
 longLabel Mazzoni ES(2i-LIF+) H3K4me3 Ainv15(Zbtb11KO) rep3
 type bigWig
@@ -430,7 +431,7 @@ visibility hide
 color 127,188,231
 
 track 29257
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel NELF_2iMINUS_Zbtb11KO_2
 longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zbtb11KO) rep2
 type bigWig
@@ -440,7 +441,7 @@ visibility hide
 color 127,188,231
 
 track 29258
-parent mES-ZBTB
+parent mES-ZBTB off
 shortLabel NELF_2iMINUS_Zfp131KO_1
 longLabel Mazzoni ES(2i-LIF+) NELF Ainv15(Zfp131KO) rep1
 type bigWig
