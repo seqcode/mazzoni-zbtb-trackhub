@@ -8,7 +8,7 @@ html description.html
 visibility full
 
 track 28758
-parent mES-ZBTB on
+parent mES-ZBTB
 shortLabel H3K4me3_2iMINUS_WT_1
 longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep1
 type bigWig
@@ -18,7 +18,7 @@ visibility full
 
 
 track 28759
-parent mES-ZBTB on
+parent mES-ZBTB
 shortLabel H3K4me3_2iMINUS_WT_2
 longLabel Mazzoni ES(2iMINUS) H3K4me3 Ainv15 rep2
 type bigWig
@@ -163,7 +163,7 @@ bigDataUrl https://seqview.psu.edu/api/v1/tracks/28781.bw
 visibility hide
 
 track 28782
-parent mES-ZBTB on
+parent mES-ZBTB
 shortLabel Zbtb11_2iPLUS_2
 longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep2
 type bigWig
@@ -191,7 +191,7 @@ bigDataUrl https://seqview.psu.edu/api/v1/tracks/28784.bw
 visibility hide
 
 track 28785
-parent mES-ZBTB on
+parent mES-ZBTB
 shortLabel Zbtb11_2iPLUS_1
 longLabel Mazzoni ES(2i+LIF+) Zbtb11 Ainv15(Zbtb11-HA) rep1
 type bigWig
@@ -201,7 +201,7 @@ visibility full
 
 
 track 28786
-parent mES-ZBTB on
+parent mES-ZBTB
 shortLabel Zfp131_2iPLUS_1
 longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep1
 type bigWig
@@ -211,7 +211,7 @@ visibility full
 
 
 track 28787
-parent mES-ZBTB on
+parent mES-ZBTB
 shortLabel Zfp131_2iPLUS_2
 longLabel Mazzoni ES(2i+LIF+) Zfp131 Ainv15(Zfp131-HA) rep2
 type bigWig
