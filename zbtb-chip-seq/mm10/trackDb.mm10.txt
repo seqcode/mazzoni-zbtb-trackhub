@@ -13,7 +13,7 @@ type bigWig
 priority 1
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28758.bw
 visibility full
-color=128,128,128
+color 128,128,128
 
 track 28759
 parent mES-ZBTB
@@ -23,7 +23,7 @@ type bigWig
 priority 2
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28759.bw
 visibility full
-color=128,128,128
+color 128,128,128
 
 track 28760
 parent mES-ZBTB
@@ -33,7 +33,7 @@ type bigWig
 priority 3
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28760.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 28761
 parent mES-ZBTB
@@ -43,7 +43,7 @@ type bigWig
 priority 4
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28761.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 28766
 parent mES-ZBTB
@@ -53,7 +53,7 @@ type bigWig
 priority 5
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28766.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28767
 parent mES-ZBTB
@@ -63,7 +63,7 @@ type bigWig
 priority 6
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28767.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28768
 parent mES-ZBTB
@@ -73,7 +73,7 @@ type bigWig
 priority 7
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28768.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28770
 parent mES-ZBTB
@@ -83,7 +83,7 @@ type bigWig
 priority 8
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28770.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28771
 parent mES-ZBTB
@@ -93,7 +93,7 @@ type bigWig
 priority 9
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28771.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28772
 parent mES-ZBTB
@@ -103,7 +103,7 @@ type bigWig
 priority 10
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28772.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28773
 parent mES-ZBTB
@@ -113,7 +113,7 @@ type bigWig
 priority 11
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28773.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28774
 parent mES-ZBTB
@@ -123,7 +123,7 @@ type bigWig
 priority 12
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28774.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 28775
 parent mES-ZBTB
@@ -133,7 +133,7 @@ type bigWig
 priority 13
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28775.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 28776
 parent mES-ZBTB
@@ -143,7 +143,7 @@ type bigWig
 priority 14
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28776.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28777
 parent mES-ZBTB
@@ -153,7 +153,7 @@ type bigWig
 priority 15
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28777.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28780
 parent mES-ZBTB
@@ -163,7 +163,7 @@ type bigWig
 priority 16
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28780.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 28781
 parent mES-ZBTB
@@ -173,7 +173,7 @@ type bigWig
 priority 17
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28781.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 28782
 parent mES-ZBTB
@@ -183,7 +183,7 @@ type bigWig
 priority 18
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28782.bw
 visibility full
-color=127,188,231
+color 127,188,231
 
 
 track 28783
@@ -194,7 +194,7 @@ type bigWig
 priority 19
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28783.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28784
 parent mES-ZBTB
@@ -204,7 +204,7 @@ type bigWig
 priority 20
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28784.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28785
 parent mES-ZBTB
@@ -214,7 +214,7 @@ type bigWig
 priority 21
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28785.bw
 visibility full
-color=127,188,231
+color 127,188,231
 
 
 track 28786
@@ -225,7 +225,7 @@ type bigWig
 priority 22
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28786.bw
 visibility full
-color=157,125,178
+color 157,125,178
 
 
 track 28787
@@ -236,7 +236,7 @@ type bigWig
 priority 23
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28787.bw
 visibility full
-color=157,125,178
+color 157,125,178
 
 
 track 28788
@@ -247,7 +247,7 @@ type bigWig
 priority 24
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28788.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 28789
 parent mES-ZBTB
@@ -257,7 +257,7 @@ type bigWig
 priority 25
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28789.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 28791
 parent mES-ZBTB
@@ -267,7 +267,7 @@ type bigWig
 priority 26
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28791.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28792
 parent mES-ZBTB
@@ -277,7 +277,7 @@ type bigWig
 priority 27
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28792.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28794
 parent mES-ZBTB
@@ -287,7 +287,7 @@ type bigWig
 priority 28
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28794.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28795
 parent mES-ZBTB
@@ -297,7 +297,7 @@ type bigWig
 priority 29
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28795.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28796
 parent mES-ZBTB
@@ -307,7 +307,7 @@ type bigWig
 priority 30
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28796.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28797
 parent mES-ZBTB
@@ -317,7 +317,7 @@ type bigWig
 priority 31
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28797.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 28798
 parent mES-ZBTB
@@ -327,7 +327,7 @@ type bigWig
 priority 32
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28798.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 28799
 parent mES-ZBTB
@@ -337,7 +337,7 @@ type bigWig
 priority 33
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/28799.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 29239
 parent mES-ZBTB
@@ -347,7 +347,7 @@ type bigWig
 priority 34
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29239.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 29242
 parent mES-ZBTB
@@ -357,7 +357,7 @@ type bigWig
 priority 35
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29242.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 29244
 parent mES-ZBTB
@@ -367,7 +367,7 @@ type bigWig
 priority 36
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29244.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 29250
 parent mES-ZBTB
@@ -377,7 +377,7 @@ type bigWig
 priority 37
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29250.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 29251
 parent mES-ZBTB
@@ -387,7 +387,7 @@ type bigWig
 priority 38
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29251.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 29252
 parent mES-ZBTB
@@ -397,7 +397,7 @@ type bigWig
 priority 39
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29252.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 29254
 parent mES-ZBTB
@@ -407,7 +407,7 @@ type bigWig
 priority 40
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29254.bw
 visibility hide
-color=128,128,128
+color 128,128,128
 
 track 29255
 parent mES-ZBTB
@@ -417,7 +417,7 @@ type bigWig
 priority 41
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29255.bw
 visibility hide
-color=157,125,178
+color 157,125,178
 
 track 29256
 parent mES-ZBTB
@@ -427,7 +427,7 @@ type bigWig
 priority 42
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29256.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 29257
 parent mES-ZBTB
@@ -437,7 +437,7 @@ type bigWig
 priority 43
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29257.bw
 visibility hide
-color=127,188,231
+color 127,188,231
 
 track 29258
 parent mES-ZBTB
@@ -447,4 +447,4 @@ type bigWig
 priority 44
 bigDataUrl https://seqview.psu.edu/api/v1/tracks/29258.bw
 visibility hide
-color=157,125,178
+color 157,125,178
