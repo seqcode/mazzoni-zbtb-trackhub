@@ -1,4 +1,4 @@
-# Trackhub for Mazzoni lab mES ZBTB ChIP-seq tracks
+# mazzoni-zbtb-trackhub
 
 UCSC Genome Browser trackhub definition files for Mazzoni lab ChIP-seq data (Garipler, et al. 2020)
 
